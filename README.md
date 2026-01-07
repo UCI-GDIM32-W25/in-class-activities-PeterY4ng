@@ -19,3 +19,4 @@ Q7: Transform.Translate(_direction) is wrong
 Q8: change Transform to transform
 
 ## Activity 3:
+https://docs.google.com/document/d/15_HFzD7qHn72CA-2sku_BtfdMzhq6NBtRONPqSFgEHI/edit?pli=1&tab=t.0
